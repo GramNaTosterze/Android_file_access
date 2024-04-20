@@ -8,8 +8,8 @@
         <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
         <option name="modules">
           <set>
-            <option value="/var/home/krzysiu/StudioProjects/MSO_Lab3" />
-            <option value="/var/home/krzysiu/StudioProjects/MSO_Lab3/app" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="false" />
